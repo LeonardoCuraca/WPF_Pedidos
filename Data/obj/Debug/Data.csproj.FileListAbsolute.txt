@@ -1,0 +1,8 @@
+C:\Users\Leonardo\source\repos\Tecsup\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Tecsup\Data\bin\Debug\Data.dll
+C:\Users\Leonardo\source\repos\Tecsup\Data\bin\Debug\Data.pdb
+C:\Users\Leonardo\source\repos\Tecsup\Data\bin\Debug\Entity.dll
+C:\Users\Leonardo\source\repos\Tecsup\Data\bin\Debug\Entity.pdb
+C:\Users\Leonardo\source\repos\Tecsup\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Leonardo\source\repos\Tecsup\Data\obj\Debug\Data.dll
+C:\Users\Leonardo\source\repos\Tecsup\Data\obj\Debug\Data.pdb

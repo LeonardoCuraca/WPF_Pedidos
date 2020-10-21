@@ -1,0 +1,5 @@
+C:\Users\Leonardo\source\repos\Tecsup\Entity\bin\Debug\Entity.dll
+C:\Users\Leonardo\source\repos\Tecsup\Entity\bin\Debug\Entity.pdb
+C:\Users\Leonardo\source\repos\Tecsup\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Tecsup\Entity\obj\Debug\Entity.dll
+C:\Users\Leonardo\source\repos\Tecsup\Entity\obj\Debug\Entity.pdb
